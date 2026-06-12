@@ -45,7 +45,7 @@ It focuses on tracking revenue, profit, sales trends, and key business KPIs to s
 ## 📁 Files in this Repository
 - `BMW_Sales_Dashboard.pbix` → Power BI dashboard file
 - `dataset.xlsx` → Raw dataset
-- `dashboard_screenshot.png` → Main dashboard preview
+- `dashboard_overview.jpg` → Main dashboard preview
 
 ---
 
