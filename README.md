@@ -32,7 +32,7 @@ It focuses on tracking revenue, profit, sales trends, and key business KPIs to s
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](1763849503190 (1).jpg)
+![Dashboard Overview](dashboard_overview.jpg)
 ---
 
 ## 🔍 Key Insights
